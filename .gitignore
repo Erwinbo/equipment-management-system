@@ -10,3 +10,6 @@ __pycache__/
 
 # Large data files
 *.xlsx
+
+# Raw reference data — local only, not for distribution
+data/*.csv
