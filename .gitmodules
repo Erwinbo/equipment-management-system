@@ -1,0 +1,4 @@
+[submodule "yms-dashboard"]
+	path = yms-dashboard
+	url = https://github.com/Erwinbo/yms-dashboard.git
+	branch = main
